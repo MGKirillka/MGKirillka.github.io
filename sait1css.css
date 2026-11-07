@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+ul {
+    font-family: helvetica;
+}
+li {
+    list-style: circle;
+}
+.light-theme {
+    color: #000000;
+    background: #00FF00;
+}
